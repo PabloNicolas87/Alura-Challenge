@@ -2,7 +2,8 @@
 
 Este proyecto es una aplicación web simple que permite a los usuarios criptografar y descriptografar mensajes utilizando un esquema de sustitución de letras. El texto ingresado se transforma según un conjunto específico de reglas, y también se proporciona la funcionalidad para copiar el texto resultante al portapapeles.
 
-Funcionalidades
+FUNCIONALIDADES
+
     Criptografar: Transforma el texto ingresado aplicando las siguientes reglas de sustitución:
 
        * e se convierte en enter
@@ -17,7 +18,8 @@ Funcionalidades
 
     Mensajes de Error: Informa al usuario si el campo de texto está vacío o si se ingresaron caracteres no permitidos (letras mayúsculas o acentos).
 
-Uso
+USO
+
     Criptografar un Mensaje:
         Ingrese el texto que desea criptografar en el campo de entrada.
         Haga clic en el botón "Criptografar".
